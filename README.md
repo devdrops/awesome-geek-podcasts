@@ -201,6 +201,7 @@ A curated list of podcasts we like to listen to.
 ## In French
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
+* [Les Cast Codeurs Podcast](https://lescastcodeurs.com/) - The Java Podcast in french. By and for developers.
 * [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 
 ## In German
